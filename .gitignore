@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Arquivos específicos do seu projeto
+*.sql
+*.dump
